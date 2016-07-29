@@ -5,6 +5,6 @@
 + 自动忽略**任选课**
 + 忽略了成绩非数字的学科（如通信工程导论）
 
-使用说明请见：[使用说明](http://bbo.me/2015/07/14/weighted-average-score-calculator/)
+使用说明请见：[使用说明](http://hansnow.me/2015/07/14/weighted-average-score-calculator/)
 
 如有问题请提交issue或者在博客下留言
